@@ -1,0 +1,7 @@
+# будем делать функционал чатика
+
+fun sendMessageToFriend(param1, param2){
+    someMessage = param1 + param2
+    return someMessage
+
+}
