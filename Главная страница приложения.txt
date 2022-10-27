@@ -1,6 +1,6 @@
 # Приветствуем пользователя
 hello()
-
+enterAuthData()
 
 fun hello(){
     print('Привет, пользователь!')
