@@ -1,1 +1,6 @@
 # будем делать функционал чатика
+
+fun sendMessage() {
+i
+  return someMessage
+}
