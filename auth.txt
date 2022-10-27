@@ -1,0 +1,6 @@
+# Файл для авторизации пользователей
+input(user_name)
+input(user_password)
+
+# если нажата кнопка создать аккаунт
+createNewAccount()
