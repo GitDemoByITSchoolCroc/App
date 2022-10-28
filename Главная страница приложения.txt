@@ -2,3 +2,5 @@ print ('Привет, пользователь!\nКак твои дела?')
 print('Приятной работы')
 button.addAction()
 
+
+auth("param 1", "param 2")
